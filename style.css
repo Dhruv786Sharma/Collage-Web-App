@@ -1,0 +1,60 @@
+h1
+{
+
+    font-family: 'Times New Roman';
+    font-style: oblique;
+    font-weight: bold;
+    color: lightgrey;
+
+
+}
+
+h4
+{
+
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    font-weight: lighter;
+    color: blueviolet;
+
+}
+
+#camera
+{
+    width:500px;
+    height: 250px;
+    border:5px solid grey;
+    border-radius: 16px;
+}
+
+img
+{
+
+    width: 500px;
+    border: 5px solid lightblue;
+    border-radius: 10px;
+    padding: 10;
+    box-shadow: 15px;
+    display:flexbox;
+
+}
+
+img:hover
+{
+    width: 400px;
+    border: 2px solid;
+    border-color: blueviolet;
+    border-radius: 30px;
+    
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    width: 100%;
+    line-height: 2;
+    background-color: brown;
+    bottom: 0;
+    color: blueviolet;
+
+}
